@@ -89,12 +89,6 @@ pip install pymysql
 # 4. Install Requirements
 
 ```bash
-pip install -r requirements.txt
-```
-
-or
-
-```bash
 pip install django mysqlclient pillow
 ```
 
