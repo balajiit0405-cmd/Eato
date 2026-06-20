@@ -36,7 +36,7 @@ Eato is a Django + MySQL based Online Food Ordering System with separate **Admin
 # 1. Clone / Download
 
 ```bash
-git clone https://github.com/harishsubburaj/Eato.git
+git clone [https://github.com/harishsubburaj/Eato.git](https://github.com/balajiit0405-cmd/Eato.git)
 cd eato_project
 ```
 
